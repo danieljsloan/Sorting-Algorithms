@@ -1,1 +1,2 @@
-# Sorting-Algorithms
+# SortingProgram
+User selects from a list of radio buttons how many integers to sort. This number dictates the length of the array length. The user then selects which sorts they would like to implement (insertion, heap, merge, quick, or a combination of the 4). The sorts begin upon pressing the start button. When the sorts are finished the time taken to complete all sorts is shown. If the number of integers to be sorted is 10, then the sorted array is printed in the multi-line text box. The user may run the sorts as many times as they like. The program is terminated upon closing the form window.
